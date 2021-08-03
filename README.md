@@ -5,3 +5,10 @@
 ## Список проектов
 
 * [Исследование надежности заемщиков](https://github.com/SergeyKrasikov/yandex-praktikum-projects/blob/master/Исследование%20надёжности%20заёмщиков/Исследование%20надёжности%20заёмщиков.ipynb)
+* [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/SergeyKrasikov/yandex-praktikum-projects/blob/master/Продажа%20квартир%20в%20Санкт-Петербурге%20—%20анализ%20рынка%20недвижимости/Продажа%20квартир%20в%20Санкт-Петербурге%20—%20анализ%20рынка%20недвижимости.ipynb)
+* [Определение выгодного тарифа для телеком компании](https://github.com/SergeyKrasikov/yandex-praktikum-projects/blob/master/Определение%20выгодного%20тарифа%20для%20телеком%20компании/Определение%20выгодного%20тарифа%20для%20телеком%20компании.ipynb)
+* [Изучение закономерностей, определяющих успешность игр](https://github.com/SergeyKrasikov/yandex-praktikum-projects/blob/master/Изучение%20закономерностей%2C%20определяющих%20успешность%20игр/Изучение%20закономерностей%2C%20определяющих%20успешность%20игр.ipynb)
+* [Рекомендация тарифов](https://github.com/SergeyKrasikov/yandex-praktikum-projects/blob/master/Рекомендация%20тарифов/Рекомендация%20тарифов.ipynb)
+* [Отток клиентов банка](https://github.com/SergeyKrasikov/yandex-praktikum-projects/blob/master/Отток%20клиентов%20банка/Отток%20клиентов%20банка.ipynb)
+
+
