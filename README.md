@@ -82,7 +82,13 @@ Pandas, sklearn, numpy,  Seaborn, машинное обучение
 На основание исторических данных о заказах такси в аэропортах.\
 Необходимо построить модель машинного обучения, способную предсказывать количество заказов на следующий час.\
 **Используемые инструменты:**\
-Pandas, Matplotlib, sklearn, numpy, re, CatBoost, LightGBM, временные ряды, машинное обучение
+Pandas, Matplotlib, sklearn, numpy, re, CatBoost, LightGBM, statsmodels, временные ряды, машинное обучение
+
+### [Классификация комментариев](https://github.com/SergeyKrasikov/yandex-praktikum-projects/tree/master/Классификация%20комментариев)
+**Цель:**\
+Необходимо обучить модель для классификации комментариев на позитивные и негативные.\
+**Используемые инструменты:**\
+Pandas, Matplotlib, sklearn, numpy, re, NLP, NLTK, машинное обучение
 
 
 
