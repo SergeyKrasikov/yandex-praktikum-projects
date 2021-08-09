@@ -90,5 +90,7 @@ Pandas, Matplotlib, sklearn, numpy, re, CatBoost, LightGBM, statsmodels, вре�
 **Используемые инструменты:**\
 Pandas, Matplotlib, sklearn, numpy, re, NLP, NLTK, машинное обучение
 
+/
+
 
 
