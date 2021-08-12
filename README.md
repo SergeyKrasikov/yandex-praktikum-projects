@@ -102,6 +102,12 @@ Pandas, Plotly, SQL
 **Используемые инструменты:**\
 Pandas, Plotly, keras, Matplotlib, numpy, CV
 
+### [Прогноз оттока клиентов для оператора связи](https://github.com/SergeyKrasikov/yandex-praktikum-projects/tree/master/Прогноз%20оттока%20клиентов%20для%20оператора%20связи)
+**Цель:**\
+Необходимо построить модель, способную определять возраст людей по фотографиям.\
+**Используемые инструменты:**\
+Pandas, Matplotlib, numpy,  CatBoost, LightGBM, Seaborn
+
 
 
 
